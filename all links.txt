@@ -3,7 +3,7 @@ https://ts.accenture.com/sites/TDE_Home/Delivery%20Management%20Operations/ADT%2
  
 https://akn.accenture.com/sites/AMTSAI/Lists/Jazz%20Disucssion%20Borad/Management.aspx 
  
-https://akn.accenture.com/sites/AMTSAI/Rational%20tools%20library/Forms/AllItems.aspx?RootFolder=%2Fsites%2FAMTSAI%2FRational%20tools%20library%2FDaily%20Tracker%2FJazz%20service%20details&FolderCTID=0x01200094D3042D5B15DA4581B00394FF046AFD&View=%7BC905D8E0-FB60-4279-A644-A9F80C8B101B%7D&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistence  
+https://akn.accenture.com/sites/AMTSAI/Rational%20tools%20library/Forms/AllItems.aspx?RootFolder=%2Fsites%2FAMTSAI%2FRational%20tools%20library%2FDaily%20Tracker%2FJazz%20service%20details&FolderCTID=0x01200094D3042D5B15DA4581B00394FF046AFD&View=%7BC905D8E0-FB60-4279-A644-A9F80C8B101B%7D&InitialTabId=Ribbon%2EDocument&VisibilityContext=WSSTabPersistenceÂ  
 
 server inventory - https://ts.accenture.com/sites/Accenture%20Deliverly%20Tool%20Managed%20Service/Lists/Jazz%20Server%20Inventory/Jazz%20ServerProject%20Matrix.aspx#InplviewHash8a31b17d-b94b-45ff-b063-edb23b770127=WebPartID%3D%7B8A31B17D--B94B--45FF--B063--EDB23B770127%7D-FilterField1%3DHosting%255Fx0020%255FSite-FilterValue1%3DFrankfurt 
  
@@ -49,10 +49,6 @@ United States
  
  Detailed log file at: C:\Users\grace.angel.myla\AppData\Roaming\Mso2Rqm\131865766647525582 log.txt
 
-
-http://itpportal.accenture.com/ITPAttendance/login.do
-sajda.shaikh
-Jammu123!@#
 
 
 E:\IBM\602CLM03\JazzTeamServer\server\conf\rm
